@@ -10,7 +10,7 @@ function notfity(title, text, duration)
 	})
 end
 
-if _G.aimbot then  notfity('Aimbot Script', 'Script Loading , Wait for a second' )
+if _G.aimbot then  notfity('Aimbot Script', 'Script Loading 1/3 , Wait for a second' )
   end
-if _G.fly then notfity('Fly Script', 'Script Loading , Wait for a second' )
+if _G.fly then notfity('Fly Script', 'Script Loading 1/3 , Wait for a second' )
    end
